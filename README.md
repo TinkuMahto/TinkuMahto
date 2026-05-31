@@ -51,8 +51,6 @@
 
 ###
 
-## 🐍 Contribution Snake
-
 ![Snake animation](https://raw.githubusercontent.com/TinkuMahto/TinkuMahto/output/snake.svg)
 
 ###
