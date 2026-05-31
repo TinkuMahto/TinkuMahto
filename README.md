@@ -45,11 +45,13 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TinkuMahto/TinkuMahto/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/TinkuMahto/TinkuMahto/languages-output/languages.svg" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats-kappa-lemon-67.vercel.app/api?username=TinkuMahto&show_icons=true&theme=radical" />
+
+<img src="https://github-readme-stats-kappa-lemon-67.vercel.app/api/top-langs/?username=TinkuMahto&layout=compact&theme=radical" />
 </div>
 
 ###
+
 
 ![Snake animation](https://raw.githubusercontent.com/TinkuMahto/TinkuMahto/output/snake.svg)
 
