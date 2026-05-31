@@ -51,7 +51,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TinkuMahto/TinkuMahto/snake-output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/TinkuMahto/TinkuMahto/output/snake.svg)
 
 ###
 
