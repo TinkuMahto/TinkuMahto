@@ -42,15 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-###
-
-<div align="left ">
-<img src="https://github-readme-stats-kappa-lemon-67.vercel.app/api?username=TinkuMahto&show_icons=true&theme=radical" /> 
-
-<img src="https://github-readme-stats-kappa-lemon-67.vercel.app/api/top-langs/?username=TinkuMahto&layout=compact&theme=radical" />
-</div>
-
-###
 
 
 ![Snake animation](https://raw.githubusercontent.com/TinkuMahto/TinkuMahto/output/snake.svg)
